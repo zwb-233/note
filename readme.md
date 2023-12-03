@@ -1,7 +1,7 @@
 # 笔记&TODO
 
 * 包含内容:
-  * 考研408:完成
+  * 考研408::ballot_box_with_check:完成
   * flutter:初步进行
   * ssm:进行一半
   * python:未开始
